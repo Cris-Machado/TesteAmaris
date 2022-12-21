@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amaris.Consolidacao.API", "Amaris.Consolidacao.API\Amaris.Consolidacao.API.csproj", "{C943F0A4-47E3-4117-BAC9-BCB165D034E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Presentation", "1-Presentation", "{4F945CE7-83D6-4D5F-9819-8B94C3AD46A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{83833D20-52C5-4E98-9339-371918EAE36C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Service", "3-Service", "{747F4E5C-6CF3-4315-9722-FC3AEADAB2E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Infra", "4-Infra", "{41836CF6-CCE3-4AA6-B75A-9FAA64302206}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1-Data", "4.1-Data", "{291B212C-C441-4B93-A0C9-8D0C79FEF8AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2-CrossCutting", "4.2-CrossCutting", "{359EA681-C0AA-4278-A320-C669F3483E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amaris.Consolidacao.Domain", "Amaris.Consolidacao.Domain\Amaris.Consolidacao.Domain.csproj", "{65F353A3-09FF-4C93-9493-431257C5F140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amaris.Consolidacao.Service", "Amaris.Consolidacao.Service\Amaris.Consolidacao.Service.csproj", "{41150C4B-95D1-4FC6-A228-AE50279E5C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amaris.Consolidacao.Data", "Amaris.Consolidacao.Data\Amaris.Consolidacao.Data.csproj", "{13F5914E-581B-43DF-A22B-15B19772C7CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amaris.Consolidacao.Identity", "Amaris.Consolidacao.Identity\Amaris.Consolidacao.Identity.csproj", "{FFED859B-FB72-41D2-ADA1-84B24EC88534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amaris.Consolidacao.IoC", "Amaris.Consolidacao.IoC\Amaris.Consolidacao.IoC.csproj", "{2CC60812-FF54-40C6-B5DF-1481CEB1A64B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C943F0A4-47E3-4117-BAC9-BCB165D034E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C943F0A4-47E3-4117-BAC9-BCB165D034E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C943F0A4-47E3-4117-BAC9-BCB165D034E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C943F0A4-47E3-4117-BAC9-BCB165D034E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F353A3-09FF-4C93-9493-431257C5F140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F353A3-09FF-4C93-9493-431257C5F140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F353A3-09FF-4C93-9493-431257C5F140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F353A3-09FF-4C93-9493-431257C5F140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41150C4B-95D1-4FC6-A228-AE50279E5C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41150C4B-95D1-4FC6-A228-AE50279E5C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41150C4B-95D1-4FC6-A228-AE50279E5C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41150C4B-95D1-4FC6-A228-AE50279E5C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F5914E-581B-43DF-A22B-15B19772C7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F5914E-581B-43DF-A22B-15B19772C7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F5914E-581B-43DF-A22B-15B19772C7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F5914E-581B-43DF-A22B-15B19772C7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFED859B-FB72-41D2-ADA1-84B24EC88534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFED859B-FB72-41D2-ADA1-84B24EC88534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFED859B-FB72-41D2-ADA1-84B24EC88534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFED859B-FB72-41D2-ADA1-84B24EC88534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC60812-FF54-40C6-B5DF-1481CEB1A64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC60812-FF54-40C6-B5DF-1481CEB1A64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC60812-FF54-40C6-B5DF-1481CEB1A64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC60812-FF54-40C6-B5DF-1481CEB1A64B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C943F0A4-47E3-4117-BAC9-BCB165D034E8} = {4F945CE7-83D6-4D5F-9819-8B94C3AD46A4}
+		{291B212C-C441-4B93-A0C9-8D0C79FEF8AB} = {41836CF6-CCE3-4AA6-B75A-9FAA64302206}
+		{359EA681-C0AA-4278-A320-C669F3483E4A} = {41836CF6-CCE3-4AA6-B75A-9FAA64302206}
+		{65F353A3-09FF-4C93-9493-431257C5F140} = {83833D20-52C5-4E98-9339-371918EAE36C}
+		{41150C4B-95D1-4FC6-A228-AE50279E5C78} = {747F4E5C-6CF3-4315-9722-FC3AEADAB2E6}
+		{13F5914E-581B-43DF-A22B-15B19772C7CF} = {291B212C-C441-4B93-A0C9-8D0C79FEF8AB}
+		{FFED859B-FB72-41D2-ADA1-84B24EC88534} = {359EA681-C0AA-4278-A320-C669F3483E4A}
+		{2CC60812-FF54-40C6-B5DF-1481CEB1A64B} = {359EA681-C0AA-4278-A320-C669F3483E4A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAED01B6-3AC1-42AE-B173-9EDD42E83DE1}
+	EndGlobalSection
+EndGlobal

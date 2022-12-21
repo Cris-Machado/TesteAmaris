@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wd3yXP7zsgyKkV3pyBrA9rUUEYBzxih93Sz9g8Bs2lw3tdnYCPhTzO6boq6Lc98CI2BnUOB/WcTp8Yaekf4bsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crist\\Área de Trabalho\\Trabalho\\Amaris\\Teste\\ConsolidacaoComerciante\\Amaris.Consolidacao.API\\Amaris.Consolidacao.API\\Amaris.Consolidacao.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crist\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
