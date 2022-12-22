@@ -1,0 +1,12 @@
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Service\bin\Debug\net6.0\Amaris.Consolidacao.Service.deps.json
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Service\bin\Debug\net6.0\Amaris.Consolidacao.Service.dll
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Service\bin\Debug\net6.0\ref\Amaris.Consolidacao.Service.dll
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Service\bin\Debug\net6.0\Amaris.Consolidacao.Service.pdb
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Service\obj\Debug\net6.0\Amaris.Consolidacao.Service.csproj.AssemblyReference.cache
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Service\obj\Debug\net6.0\Amaris.Consolidacao.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Service\obj\Debug\net6.0\Amaris.Consolidacao.Service.AssemblyInfoInputs.cache
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Service\obj\Debug\net6.0\Amaris.Consolidacao.Service.AssemblyInfo.cs
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Service\obj\Debug\net6.0\Amaris.Consolidacao.Service.csproj.CoreCompileInputs.cache
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Service\obj\Debug\net6.0\Amaris.Consolidacao.Service.dll
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Service\obj\Debug\net6.0\ref\Amaris.Consolidacao.Service.dll
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Service\obj\Debug\net6.0\Amaris.Consolidacao.Service.pdb

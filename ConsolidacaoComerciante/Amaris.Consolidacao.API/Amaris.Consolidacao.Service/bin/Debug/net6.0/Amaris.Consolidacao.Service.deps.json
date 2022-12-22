@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Amaris.Consolidacao.Service/1.0.0": {
+        "runtime": {
+          "Amaris.Consolidacao.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amaris.Consolidacao.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
