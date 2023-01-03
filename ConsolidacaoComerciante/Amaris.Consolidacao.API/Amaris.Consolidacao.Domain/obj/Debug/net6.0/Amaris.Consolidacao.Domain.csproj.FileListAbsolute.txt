@@ -10,3 +10,6 @@ C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\A
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Domain\obj\Debug\net6.0\Amaris.Consolidacao.Domain.dll
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Domain\obj\Debug\net6.0\ref\Amaris.Consolidacao.Domain.dll
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Domain\obj\Debug\net6.0\Amaris.Consolidacao.Domain.pdb
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Domain\bin\Debug\net6.0\Amaris.Consolidacao.Identity.dll
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Domain\bin\Debug\net6.0\Amaris.Consolidacao.Identity.pdb
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Domain\obj\Debug\net6.0\Amaris.Consolidacao.Domain.csproj.CopyComplete

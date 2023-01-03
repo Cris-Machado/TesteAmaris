@@ -4,7 +4,11 @@ C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\A
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Data\bin\Debug\net6.0\ref\Amaris.Consolidacao.Data.dll
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Data\bin\Debug\net6.0\Amaris.Consolidacao.Data.pdb
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Data\bin\Debug\net6.0\Amaris.Consolidacao.Domain.dll
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Data\bin\Debug\net6.0\Amaris.Consolidacao.Identity.dll
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Data\bin\Debug\net6.0\Amaris.Consolidacao.Service.dll
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Data\bin\Debug\net6.0\Amaris.Consolidacao.Domain.pdb
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Data\bin\Debug\net6.0\Amaris.Consolidacao.Service.pdb
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Data\bin\Debug\net6.0\Amaris.Consolidacao.Identity.pdb
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Data\obj\Debug\net6.0\Amaris.Consolidacao.Data.csproj.AssemblyReference.cache
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Data\obj\Debug\net6.0\Amaris.Consolidacao.Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Data\obj\Debug\net6.0\Amaris.Consolidacao.Data.AssemblyInfoInputs.cache

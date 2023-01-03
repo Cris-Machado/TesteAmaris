@@ -7,8 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
     <Folder Include="Entities\" />
+    <Folder Include="Enumerables\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Amaris.Consolidacao.Identity\Amaris.Consolidacao.Identity.csproj" />
   </ItemGroup>
 
 </Project>

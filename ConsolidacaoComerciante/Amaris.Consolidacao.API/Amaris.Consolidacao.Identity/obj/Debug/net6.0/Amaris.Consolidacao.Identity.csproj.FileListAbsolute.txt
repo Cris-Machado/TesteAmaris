@@ -1,4 +1,5 @@
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Identity\bin\Debug\net6.0\Amaris.Consolidacao.Identity.deps.json
+C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Identity\bin\Debug\net6.0\Amaris.Consolidacao.Identity.runtimeconfig.json
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Identity\bin\Debug\net6.0\Amaris.Consolidacao.Identity.dll
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Identity\bin\Debug\net6.0\ref\Amaris.Consolidacao.Identity.dll
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Identity\bin\Debug\net6.0\Amaris.Consolidacao.Identity.pdb
@@ -10,5 +11,4 @@ C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\A
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Identity\obj\Debug\net6.0\Amaris.Consolidacao.Identity.dll
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Identity\obj\Debug\net6.0\ref\Amaris.Consolidacao.Identity.dll
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Identity\obj\Debug\net6.0\Amaris.Consolidacao.Identity.pdb
-C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Identity\bin\Debug\net6.0\Amaris.Consolidacao.Identity.runtimeconfig.json
 C:\Users\crist\Área de Trabalho\Trabalho\Amaris\Teste\ConsolidacaoComerciante\Amaris.Consolidacao.API\Amaris.Consolidacao.Identity\obj\Debug\net6.0\Amaris.Consolidacao.Identity.genruntimeconfig.cache

@@ -1,12 +1,7 @@
 ﻿using Amaris.Consolidacao.Data.Interfaces;
 using Amaris.Consolidacao.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
 using System.Data.Common;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Amaris.Consolidacao.Data.Context
 {
@@ -34,7 +29,7 @@ namespace Amaris.Consolidacao.Data.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            modelBuilder.Entity<UserEntity>().ToTable("AspNetUsers", "Identity");
+            modelBuilder.Entity<UserEntity>().ToTable("AspNetUsers", "Consolidacao");
         }
         #endregion
     }

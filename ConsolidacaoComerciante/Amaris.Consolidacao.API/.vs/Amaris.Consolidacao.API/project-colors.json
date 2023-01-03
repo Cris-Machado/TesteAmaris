@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c943f0a4-47e3-4117-bac9-bcb165d034e8": {
+      "ProjectGuid": "c943f0a4-47e3-4117-bac9-bcb165d034e8",
+      "DisplayName": "Amaris.Consolidacao.API",
+      "ColorIndex": 0
+    },
+    "2cc60812-ff54-40c6-b5df-1481ceb1a64b": {
+      "ProjectGuid": "2cc60812-ff54-40c6-b5df-1481ceb1a64b",
+      "DisplayName": "Amaris.Consolidacao.IoC",
+      "ColorIndex": 1
+    },
+    "41150c4b-95d1-4fc6-a228-ae50279e5c78": {
+      "ProjectGuid": "41150c4b-95d1-4fc6-a228-ae50279e5c78",
+      "DisplayName": "Amaris.Consolidacao.Service",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

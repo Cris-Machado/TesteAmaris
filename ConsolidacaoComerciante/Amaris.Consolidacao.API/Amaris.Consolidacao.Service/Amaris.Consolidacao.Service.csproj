@@ -7,9 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\Repository\" />
-    <Folder Include="Interfaces\Service\" />
-    <Folder Include="Service\" />
+    <ProjectReference Include="..\Amaris.Consolidacao.Domain\Amaris.Consolidacao.Domain.csproj" />
+    <ProjectReference Include="..\Amaris.Consolidacao.Identity\Amaris.Consolidacao.Identity.csproj" />
   </ItemGroup>
 
 </Project>
